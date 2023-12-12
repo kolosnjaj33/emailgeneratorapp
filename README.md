@@ -1,23 +1,24 @@
-# Email generator application
+# Email generator application 
 Scenario: You are an IT Support Administrator Specialist and are charged with the task of creating email accounts for new hires.
-------------------------------------------------------------------------------------------------------------------------------
+
 #OUTPUT OF APP 
-Your first name: 
-Nikola 
-Your last name: 
-Kolosnjaj
-----------------------------------------
-New worker: Nikola 
+-------------------------------------------
+Your first name: <br />
+Nikola <br />
+Your last name: <br />
+Kolosnjaj <br />
 
-DEPARTMENT CODES
-1 for Sales
-2 for Development
-3 for Accounting
-0 for none
+New worker: Nikola <br />
 
-Enter department code:  
-3
-Your password is: !25!MD$Z5E
-DISPLAY NAME: Nikola Kolosnjaj
-COMPANY EMAIL: nikola.kolosnjaj@acct.codelaboratory.com
-MAILBOX CAPACITY: 500mb
+DEPARTMENT CODES <br />
+1 for Sales <br />
+2 for Development <br />
+3 for Accounting <br />
+0 for none <br />
+
+Enter department code: <br /> 
+3 <br />
+Your password is: !25!MD$Z5E <br />
+DISPLAY NAME: Nikola Kolosnjaj <br />
+COMPANY EMAIL: nikola.kolosnjaj@acct.codelaboratory.com <br />
+MAILBOX CAPACITY: 500mb <br />
